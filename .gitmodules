@@ -1,0 +1,4 @@
+[submodule "coworkers_repo"]
+	path = coworkers_repo
+	url = git@github.com:barun12/coworkers_repo.git
+	branch = master
