@@ -1,8 +1,0 @@
-[submodule "django_exam"]
-	path = django_exam
-	url = git@github.com:barun12/django_exam.git
-	branch = master
-[submodule "coworkers_repo"]
-	path = coworkers_repo
-	url = git@github.com:barun12/coworkers_repo.git
-	branch = master
